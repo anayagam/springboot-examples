@@ -1,4 +1,4 @@
-package com.gogoair.basicutils.presentation;
+package com.coding.basicutils.presentation;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
